@@ -1,0 +1,142 @@
+{
+  "Category" : {
+    "01" : {
+      "Image" : "http://www.mobileswall.com/wp-content/uploads/2015/09/640-Playing-Games-on-Playstation-l.jpg",
+      "Name" : "Games"
+    },
+    "02" : {
+      "Image" : "http://www.mobileswall.com/wp-content/uploads/2015/11/640-chevrolet-corvette-stingray-l.jpg",
+      "Name" : "Cars"
+    },
+    "03" : {
+      "Image" : "http://www.mobileswall.com/wp-content/uploads/2015/11/640-battle_of_geonosis-wallpaper-l.jpg",
+      "Name" : "Movies"
+    },
+    "04" : {
+      "Image" : "http://www.mobileswall.com/wp-content/uploads/2015/09/640-The-Dark-Knight-l.jpg",
+      "Name" : "Superheros"
+    },
+    "05" : {
+      "Image" : "http://www.mobileswall.com/wp-content/uploads/2015/12/640-Cat-l.jpg",
+      "Name" : "Animals"
+    }
+  },
+  "Question_Score" : {
+    "kok_01" : {
+      "categoryId" : "01",
+      "categoryName" : "Games",
+      "question_Score" : "kok_01",
+      "score" : "20",
+      "user" : "kok"
+    },
+    "kok_02" : {
+      "categoryId" : "02",
+      "categoryName" : "Cars",
+      "question_Score" : "kok_02",
+      "score" : "10",
+      "user" : "kok"
+    },
+    "kok_03" : {
+      "categoryId" : "03",
+      "categoryName" : "Movies",
+      "question_Score" : "kok_03",
+      "score" : "0",
+      "user" : "kok"
+    }
+  },
+  "Questions" : {
+    "01" : {
+      "AnswerA" : "Answer A",
+      "AnswerB" : "Answer B",
+      "AnswerC" : "Answer C",
+      "AnswerD" : "Answer D",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Answer A",
+      "IsImageQuestion" : "false",
+      "Question" : "text Question"
+    },
+    "02" : {
+      "AnswerA" : "Answer A",
+      "AnswerB" : "Answer B",
+      "AnswerC" : "Answer C",
+      "AnswerD" : "Answer D",
+      "CategoryId" : "01",
+      "CorrectAnswer" : "Answer A",
+      "IsImageQuestion" : "true",
+      "Question" : "https://cdn3.volusion.com/refe6.s6h4r/v/vspfiles/photos/Flag-US-2T.jpg?1471063762"
+    },
+    "03" : {
+      "AnswerA" : "Answer A",
+      "AnswerB" : "Answer B",
+      "AnswerC" : "Answer C",
+      "AnswerD" : "Answer D",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Answer A",
+      "IsImageQuestion" : "false",
+      "Question" : "text Question 2"
+    },
+    "04" : {
+      "AnswerA" : "Answer A",
+      "AnswerB" : "Answer B",
+      "AnswerC" : "Answer C",
+      "AnswerD" : "Answer D",
+      "CategoryId" : "02",
+      "CorrectAnswer" : "Answer A",
+      "IsImageQuestion" : "true",
+      "Question" : "https://cdn3.volusion.com/refe6.s6h4r/v/vspfiles/photos/Flag-US-2T.jpg?1471063762"
+    },
+    "05" : {
+      "AnswerA" : "Answer A",
+      "AnswerB" : "Answer B",
+      "AnswerC" : "Answer C",
+      "AnswerD" : "Answer D",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Answer A",
+      "IsImageQuestion" : "false",
+      "Question" : "text Question 3"
+    },
+    "06" : {
+      "AnswerA" : "Answer A",
+      "AnswerB" : "Answer B",
+      "AnswerC" : "Answer C",
+      "AnswerD" : "Answer D",
+      "CategoryId" : "03",
+      "CorrectAnswer" : "Answer A",
+      "IsImageQuestion" : "true",
+      "Question" : "https://cdn3.volusion.com/refe6.s6h4r/v/vspfiles/photos/Flag-US-2T.jpg?1471063762"
+    }
+  },
+  "Ranking" : {
+    "kok" : {
+      "score" : 30,
+      "userName" : "kok"
+    }
+  },
+  "Users" : {
+    "1" : {
+      "email" : "1",
+      "password" : "1",
+      "userName" : "1"
+    },
+    "k" : {
+      "email" : "kar",
+      "password" : "12",
+      "userName" : "k"
+    },
+    "kar" : {
+      "email" : "kar",
+      "password" : "12",
+      "userName" : "kar"
+    },
+    "kok" : {
+      "email" : "kok",
+      "password" : "kok",
+      "userName" : "kok"
+    },
+    "playmaker" : {
+      "email" : "play@yahoo.com",
+      "password" : "00000",
+      "userName" : "playmaker"
+    }
+  }
+}
